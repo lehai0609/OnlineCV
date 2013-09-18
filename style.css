@@ -1,0 +1,38 @@
+*{
+	background-color: #999BA7;
+}
+
+img{
+	float: left;
+	width: 20%;
+}
+
+div.contact-detail{
+	display: inline-table;
+	margin-left: 20%;
+}
+
+
+header {
+	top: 0px;
+	height: 32%;
+	width: 100%;
+	position: fixed;
+	z-index: 10000;
+}
+
+body{
+	margin-top: 20%; 
+}
+
+nav { 
+	float: left;
+	width: 20%;
+	display: inline;
+	position: fixed;
+}
+
+section.information{
+	margin-left: 20%;
+}
+
